@@ -1,16 +1,16 @@
-Francois Viéte
+Francois ViÅ¥te
 (1540-1603)francia matematikus
-Életérõl
-Foglalkozását tekintve jogász volt. Fiatal korában támadt egy ötlete új csillagászati elmélethez, amely a kopernikuszi rendszert fejlesztette volna tovább. Ennek érdekében kezdett el a matematikával foglalkozni. Tehetséges emberként kezdetben jogászként is sikeres pályája volt. III. Henrik, majd IV. Henrik francia király ügyésze és tanácsosa volt. Késõbb kegyvesztett lett.
-Munkásságáról
-Kezdetben elsõsorban trigonometriával foglalkozott.
-1584 és 1589 között, kegyvesztettsége idején írta meg fõ mûvét az In artem analyticam isagoge-t. (Bevezetés az analízis tudományába).
-Ez egy befejezetlensége ellenére is hatalmas munka, benne új algebrai megoldásokkal. Az egyenletmegoldás általános módszereit kereste. Ezért a Diophantosz által megkezdett úton az algebrai jelölésrendszert fejlesztette tovább.
-Igyekezett szimbólumokkal dolgozni, az együtthatók helyett is betûket használt. Ezek segítségével formulát tudott felírni a másodfokú egyenletek megoldására.
-A harmadfokú egyenletek megoldásával is foglalkozott.
-Igen jelentõs eredménye a végtelen sorozatok felfedezése.
-Másodfokú egyenletek gyökök és együtthatók kapcsolatát megadó képletek, a Viete-formulák is õrzik a nevét.
-A másodfokú egyenlet
-A másodfokú egyenlet általános alakja ax2+bx+c=0. Megoldó képlet:
-Ahol a gyök alatt álló kifejezés a diszkrimináns (D), ami meghatározza a valós gyökök számát. Ha D&lt;0, akkor nincs megoldás, ha D=0, akkor egy megoldás, ha D&gt;0, akkor két megoldás van.
-A valós gyökök száma:
+â€¦letÅ¥rÅ±l
+FoglalkozÅ sÅ t tekintve jogÅ sz volt. Fiatal korÅ ban tÅ madt egy Å²tlete Ä·j csillagÅ szati elmÅ¥lethez, amely a kopernikuszi rendszert fejlesztette volna tovÅ bb. Ennek Å¥rdekÅ¥ben kezdett el a matematikÅ val foglalkozni. TehetsÅ¥ges emberkÅ¥nt kezdetben jogÅ szkÅ¥nt is sikeres pÅ lyÅ ja volt. III. Henrik, majd IV. Henrik francia kirÅ ly ÅgyÅ¥sze Å¥s tanÅ csosa volt. KÅ¥sÅ±bb kegyvesztett lett.
+MunkÅ ssÅ gÅ rÅ¯l
+Kezdetben elsÅ±sorban trigonometriÅ val foglalkozott.
+1584 Å¥s 1589 kÅ²zÅ²tt, kegyvesztettsÅ¥ge idejÅ¥n Åªrta meg fÅ± mÅ»vÅ¥t az In artem analyticam isagoge-t. (BevezetÅ¥s az analÅªzis tudomÅ nyÅ ba).
+Ez egy befejezetlensÅ¥ge ellenÅ¥re is hatalmas munka, benne Ä·j algebrai megoldÅ sokkal. Az egyenletmegoldÅ s Å ltalÅ nos mÅ¯dszereit kereste. EzÅ¥rt a Diophantosz Å ltal megkezdett Ä·ton az algebrai jelÅ²lÅ¥srendszert fejlesztette tovÅ bb.
+Igyekezett szimbÅ¯lumokkal dolgozni, az egyÅtthatÅ¯k helyett is betÅ»ket hasznÅ lt. Ezek segÅªtsÅ¥gÅ¥vel formulÅ t tudott felÅªrni a mÅ sodfokÄ· egyenletek megoldÅ sÅ ra.
+A harmadfokÄ· egyenletek megoldÅ sÅ val is foglalkozott.
+Igen jelentÅ±s eredmÅ¥nye a vÅ¥gtelen sorozatok felfedezÅ¥se.
+MÅ sodfokÄ· egyenletek gyÅ²kÅ²k Å¥s egyÅtthatÅ¯k kapcsolatÅ t megadÅ¯ kÅ¥pletek, a Viete-formulÅ k is Å±rzik a nevÅ¥t.
+A mÅ sodfokÄ· egyenlet
+A mÅ sodfokÄ· egyenlet Å ltalÅ nos alakja ax2+bx+c=0. MegoldÅ¯ kÅ¥plet:
+Ahol a gyÅ²k alatt Å llÅ¯ kifejezÅ¥s a diszkriminÅ ns (D), ami meghatÅ rozza a valÅ¯s gyÅ²kÅ²k szÅ mÅ t. Ha D&lt;0, akkor nincs megoldÅ s, ha D=0, akkor egy megoldÅ s, ha D&gt;0, akkor kÅ¥t megoldÅ s van.
+A valÅ¯s gyÅ²kÅ²k szÅ ma:
